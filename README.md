@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **AI/ML with DevOps**
 
 - 🧑‍🎓 I’m a Fresher of **University of Kelaniya**
 
@@ -19,7 +19,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="">
+  <img align="center" alt="Coding" width="450" src="https://camo.githubusercontent.com/06d3d4a46fcdbe3716ebb86fa66418fcc51231d1d067cd998c3eb3876f372359/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a4e675574493374594c687571355679302e676966">
 
   
   </td>
