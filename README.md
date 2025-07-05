@@ -32,19 +32,24 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=nadun96&theme=dark)](https://git.io/streak-stats) 
-  <br></br>
+  <td width="50%" align="center">
 
-  
-</td>
-<td width="50%" align="center">
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=nadun96&theme=dark)](https://git.io/streak-stats) 
+  </td>
+  <td align="center>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nadun96&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+   [![Nadun StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20018036)](https://stackoverflow.com/users/20018036/nightwingsl)
+   
   </td>
 </tr>
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nadun96&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+  <td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadun96&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  </tD>
+<tr>
+
 </table>
 
 ---
