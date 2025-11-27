@@ -33,8 +33,8 @@
 <table align="center">
 <tr border="none">
   <td width="50%" align="center">
-
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=nadun96&theme=dark)](https://git.io/streak-stats) 
+ 
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=nadun96)](https://git.io/streak-stats) 
   </td>
   <td align="center>
 
