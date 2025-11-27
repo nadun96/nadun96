@@ -33,10 +33,14 @@
 <table align="center">
 <tr border="none">
   <td width="50%" align="center">
+    
    [![GitHub Streak](https://streak-stats.demolab.com/?user=nadun96)](https://git.io/streak-stats) 
+    
   </td>
   <td align="center>
+    
    [![Nadun StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20018036)](https://stackoverflow.com/users/20018036/nightwingsl)
+   
   </td>
 </tr>
   <td width="50%" align="center">
