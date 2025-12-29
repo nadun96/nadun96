@@ -9,9 +9,9 @@
   
 - 🌱 I’m currently learning **AI/ML with DevOps**
 
-- 🧑‍🎓 I’m a Fresher of **University of Kelaniya**
+- 🧑‍🎓 Graduated from **University of Kelaniya**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **nadunudaraka@gmail.com**
   
