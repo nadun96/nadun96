@@ -34,7 +34,7 @@
 <table align="center">
 <tr border="none">
   <td width="50%" align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nadun96&theme=dark&hide_border=false&background=0D1117" alt="GitHub Streak" /></a>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=nadun96)](https://git.io/streak-stats)
   </td>
   <td width="50%" align="center">
     <a href="https://stackoverflow.com/users/20018036/nightwingsl"><img src="https://github-readme-stackoverflow.vercel.app/?userID=20018036" alt="StackOverflow Stats" /></a>
