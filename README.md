@@ -35,7 +35,7 @@
 
 </td>
 <td width="45%" align="center">
-  <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/06d3d4a46fcdbe3716ebb86fa66418fcc51231d1d067cd998c3eb3876f372359/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a4e675574493374594c687571355679302e676966">
+  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </td>
 </tr>
 </table>
@@ -67,10 +67,10 @@
   <table>
     <tr border="none">
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadun96&theme=radical&hide_border=true&background=0D1117&ring=2B5BBD&fire=DD2727&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=nadun96&theme=radical&hide_border=true&background=0D1117&ring=2B5BBD&fire=DD2727&currStreakLabel=FFFFFF" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nadun96&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2B5BBD&icon_color=1124BB&text_color=FFFFFF" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=nadun96&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2B5BBD&icon_color=1124BB&text_color=FFFFFF" alt="GitHub Stats"/>
       </td>
     </tr>
     <tr>
