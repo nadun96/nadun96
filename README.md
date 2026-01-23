@@ -27,7 +27,7 @@
 - 📝 Published researcher on **Blockchain in Supply Chain** at IEEE
 - 🌱 Specialized in **FastAPI, AWS, Docker, CI/CD** pipelines
 - 🤖 Certified in **Machine Learning** (DeepLearning.AI)
-- 🔐 Preparing for **Azure AI Engineer (AI-102)** certification
+- 🔐 **Azure AI Engineer (AI-102)** certified (Valid till July 2026)
 - 💬 Ask me about **Backend Development, Blockchain, AWS, or AI/ML**
 - 📫 Reach me at **nadunudaraka@gmail.com**
 - 🏆 **President's Scout Award** recipient (2014)
@@ -283,7 +283,7 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
       <br><b>Azure AI Engineer (AI-102)</b>
-      <br>In Progress - Target: Jun 2025
+      <br>Jul 2025 - Valid till Jul 2026
       <br>• AI solution architecture
       <br>• Cognitive services implementation
       <br>• Azure AI services integration
