@@ -86,9 +86,6 @@
   </table>
 </div>
 <div align="center">
-  ![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadun96&show_icons=true&theme=radical)
-</div>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadun96&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
