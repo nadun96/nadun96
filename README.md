@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadun96&theme=radical&hide_border=true&bg_color=0D1117&title_color=2B5BBD&text_color=FFFFFF&langs_count=8&layout=compact" alt="Top Languages"/>
+        <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nadun96&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
       </td>
       <td width="50%" align="center">
         <a href="https://stackoverflow.com/users/20018036/nightwingsl">
